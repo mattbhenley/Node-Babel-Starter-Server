@@ -1,0 +1,2 @@
+# Node-Babel-Starter-Server
+A Simple node.js/express server that uses Babel. Babel allows you to use the ES Module syntax on the back-end.
