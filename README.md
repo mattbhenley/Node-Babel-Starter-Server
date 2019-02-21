@@ -1,8 +1,8 @@
-# Node-Babel Starter Pack
+# Node-Babel Starter Server
 
-> A Simple node.js/express server that uses babel and babel-watch. Babel allows you to use the ES Module syntax (import) on the backend.
+> A Simple node.js/express server that uses Babel. Babel allows you to use the ES Module syntax on the backend.
 
-## Quick Start
+## Instructions
 
 ```bash
 # Install dependencies
@@ -15,14 +15,6 @@ npm run server
 ## App Info
 
 ### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### Version
-
-1.0.0
-
-### License
+Matt Henley 
 
 This project is licensed under the MIT License
